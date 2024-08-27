@@ -19,3 +19,8 @@
 # Nodemon utility: To restart server automatically (once the file save, the server get restart.)
 # Nodemon Installation as Dev Dedpendency so, npm i -D nodemon OR npm install --save-dev nodemon (node_modules created)
 # Script: set the command in package.json to run server. ("dev": "nodemon src/index.js") 
+# create some folders inside the src folder such as controllers db middlewares models utils
+# Prettier :  Prettier is a popular code formatter that helps maintain consistent code style across a project.
+# Prettier Installation as Dev Dedpendency so, npm i -D prettier 
+# Prettier Configuration: create a file called .prettierrc at root level. (note: at the end rc to be added in file name).
+# PrettierignoreL create a file called .prettierignore at root level. (mention files on which pritter not applicable).
